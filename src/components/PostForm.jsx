@@ -11,8 +11,6 @@ class PostForm extends React.Component {
         this.state = {
             title: ''
         }
-
-
     }
 
     submitHandler = event => {
